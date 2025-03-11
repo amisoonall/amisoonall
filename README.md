@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Amir! 
 
-<!--
-**amisoonall/amisoonall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About Me:** 
+- 💻 Currently learning Python and AI 
 
-Here are some ideas to get you started:
+🛠 **Skills:** 
+- Python 🐍 | SQL 🗄 | HTML 🎨 
+- WordPress 🏗 | Tkinter 🏞 | Git & GitHub 🖥 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with Me:** 
+- [LinkedIn](https://www.linkedin.com/in/ami-sonal-044682355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) ;
+- [GitHub](https://github.com/amisoonall) ;
+
+🚀 **My Projects:** 
+- [Calculator with Tkinter](https://github.com/amisoonall/calculator) ;
+- [Municipality Database](https://github.com/amirdev/municipality-db) ;
+- [House Price Prediction Model](https://github.com/amirdev/house-price-prediction) ;
+- [Heart Disease Prediction with Classification](https://github.com/amirdev/heart-disease-prediction) ;
+- [Combined Model PCI + Random Forest + KMeans](https://github.com/amirdev/combined-model)
