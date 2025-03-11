@@ -12,8 +12,7 @@
 - [GitHub](https://github.com/amisoonall) ;
 
 🚀 **My Projects:** 
-- [Calculator with Tkinter](https://github.com/amisoonall/calculator) ;
-- [Municipality Database](https://github.com/amirdev/municipality-db) ;
-- [House Price Prediction Model](https://github.com/amirdev/house-price-prediction) ;
-- [Heart Disease Prediction with Classification](https://github.com/amirdev/heart-disease-prediction) ;
-- [Combined Model PCI + Random Forest + KMeans](https://github.com/amirdev/combined-model)
+- [Calculator with Tkinter](https://github.com/amisoonall/simple-calculator-tkinter) ;
+- [House Price Prediction Model](https://github.com/amisoonall/house-price-prediction) ;
+- [Heart Disease Prediction with Classification](https://github.com/amisoonall/Heart--Disease--Prediction--using--Classification) ;
+- [Combined Model PCI + Random Forest + KMeans](https://github.com/amisoonall/hybrid_clustering_pca_rf_kmeans)
